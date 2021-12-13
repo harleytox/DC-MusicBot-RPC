@@ -2,8 +2,8 @@
   "language": "en-us",
   "data": [
     {
-      "bot_id": "id do bot",
-      "url": "ws://url:porta/ws"
+ "bot_id": "883496969216086136",
+ "url": "wss://discord-music-bot-disnake.naoseinucasaber.repl.co:433/ws"
     }
   ]
 }
